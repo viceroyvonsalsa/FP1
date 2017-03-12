@@ -70,7 +70,7 @@ The narrative itself should be no longer than 350 words. Yes, you need at least 
 
 ![test image](/testimage.png?raw=true "test image")
 
-You must provide credit to any borrowed images.
+You must provide credit to the source for any borrowed images.
 
 Code should be delivered in two ways:
 
