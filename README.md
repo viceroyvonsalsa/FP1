@@ -56,7 +56,7 @@ Code is super easy in markdown, which you can easily do inline `(require net/url
 ```
 
 ## My Library: (library name here)
-My name:
+My name: **put your real name here**
 
 Write what you did!
 Remember that this report must include:
